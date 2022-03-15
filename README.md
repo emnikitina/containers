@@ -1,1 +1,2 @@
 # containers
+This project is recoding some STL containers such as vector, stack, map and set. Stack is based on vector, map and set are based on red-black tree algorithm. Recoding containers have all methods which are presented in C++98. Iteratora, reverse iterator, enable_if, is_integral, equal and lexicographical_compare pair are implemented. Recoding containers aren't 20 times slower than std containers.
